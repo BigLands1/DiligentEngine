@@ -1,12 +1,12 @@
 [submodule "DiligentCore"]
 	path = DiligentCore
-	url = https://github.com/BigLands1/DiligentCore.git
+	url = https://github.com/C6Dev/DiligentCore.git
 [submodule "DiligentTools"]
 	path = DiligentTools
 	url = https://github.com/C6Dev/DiligentTools.git
 [submodule "DiligentSamples"]
 	path = DiligentSamples
-	url = https://github.com/DiligentGraphics/DiligentSamples.git
+	url = https://github.com/BigLands1/DiligentSamples.git
 [submodule "DiligentFX"]
 	path = DiligentFX
 	url = https://github.com/DiligentGraphics/DiligentFX.git
